@@ -1,4 +1,1 @@
-# Download Links: 
-
-
-Norse Mod: https://shorturl.at/mnz69
+# You must drop the python file directly in the 'Mods' folder
